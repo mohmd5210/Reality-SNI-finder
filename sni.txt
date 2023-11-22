@@ -107,21 +107,21 @@ solarsystem.nasa.gov
 enic-naric.net
 mastodon.cloud
 check-host.net
-coinmarketcap.com 🔥
-cdn.accuweather.com 🔥
+coinmarketcap.com
+cdn.accuweather.com
 none.felinetest.site
-www.nasa.gov 🔥
-www.zula.ir 🔥
-account.zula.ir 🔥
+www.nasa.gov
+www.zula.ir
+account.zula.ir
 speedtest.net
-flutter.dev 🔥
+flutter.dev
 ftp.debian.org
 debian.org
 discord.com 
-discordapp.com 🔥
+discordapp.com
 www.datadoghq.com
 eset.com
-tgju.org 🔥
+tgju.org
 ieee.org
 speestest.net
 somnambulate.milkywaygalaxy.website
